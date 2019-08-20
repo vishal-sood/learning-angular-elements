@@ -1,0 +1,12 @@
+span.count {
+    display: inline-block;
+    width: 40px;
+    min-width: 40px;
+    text-align: center;
+    border-bottom: 1px solid gray;
+}
+
+span.count-modifier {
+    margin: 0 5px;
+    cursor: pointer;
+}
